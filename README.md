@@ -5,33 +5,33 @@ The Vmart application is designed to facilitate the delivery of fresh products t
 
 Key Features:
 Product Listings:
-
 Display various products available for purchase, categorized for easy browsing.
 Include details such as product names, prices, and descriptions.
-User Authentication:
 
+User Authentication:
 Allow users to create accounts and log in securely.
 Ensure user data is stored and managed properly using Firebase Authentication.
-Shopping Cart:
 
+Shopping Cart:
 Enable users to add products to their shopping cart.
 Provide functionality to update quantities, remove items, and view the total price.
-Order Placement:
 
+Order Placement:
 Facilitate the process of placing an order for selected products.
 Capture necessary details such as delivery address and contact information.
-Order Tracking:
 
+Order Tracking:
 Allow users to track the status of their orders.
 Notify users of order confirmation, dispatch, and delivery status.
-Firebase Realtime Database:
 
+Firebase Realtime Database:
 Store and manage product data, user profiles, orders, and other necessary information.
 Ensure real-time synchronization of data for a seamless user experience.
-Firebase Storage:
 
+Firebase Storage:
 Manage and store images of products efficiently.
 Ensure quick and reliable access to images for users.
+
 Technologies Used:
 Android Studio: The primary development environment for building the Vmart application.
 Java: The main programming language used for developing the application's functionality.
